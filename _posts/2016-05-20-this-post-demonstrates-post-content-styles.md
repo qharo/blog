@@ -12,6 +12,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 ![Drag Racing](./tmp9azlrbim.jpg)
 
+<img src="tmp9azlrbim.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ## Some great heading (h2)
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
